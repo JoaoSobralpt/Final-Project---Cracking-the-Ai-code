@@ -48,8 +48,10 @@ Description: Future AI Tools Recommender is another Jupyter Notebook that focuse
 CrackingtheAIcode.ipynb:
 
 Description: The main Jupyter Notebook, "CrackingtheAIcode.ipynb," serves as the central hub for the project. It encompasses data cleaning, analysis, visualization, and insights generation. This notebook is where the project's core work, including data exploration and cleaning, takes place.
+
 Tableau Visualizations:
 Tableau Visuals: For a visual representation of the project's insights and analyses, please visit Tableau Public. Explore a variety of visualizations created using Tableau to gain deeper insights into the world of AI tools.
+
 Presentation:
 Cracking the AI Code.pdf: This presentation PDF file, "Cracking the AI Code," serves as the official documentation of the project's findings, analyses, and AI-themed games. It provides an engaging and informative overview of the entire project.
 These datasets, notebooks, Tableau visualizations, and the presentation PDF collectively form the "Cracking the AI Code" project, enabling data analysis, visualization, and the creation of the AI-lympics game.
